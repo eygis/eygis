@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @eygis or AJ.
 - 👀  I’m interested in expanding my skills and knowledge of programming.
-- 🌱  I’m currently beginning to learn TypeScript!
+- 🌱  I’m currently reviewing React!
 
 <!---
 eygis/eygis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
