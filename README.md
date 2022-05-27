@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @eygis or AJ.
+- 👋  Hi, I’m AJ!
 - 👀  I’m interested in expanding my skills and knowledge of programming.
 - 🌱  I’m currently reviewing React!
 
