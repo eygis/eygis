@@ -1,6 +1,6 @@
 - 👋  Hi, I’m AJ!
 - 👀  I’m interested in expanding my skills and knowledge of programming.
-- 🌱  I’m currently reviewing React!
+- 🌱  I’m currently reviewing NodeJS!
 
 <!---
 eygis/eygis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
