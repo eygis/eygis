@@ -1,5 +1,6 @@
 - 👋  Hi, I’m AJ!
 - 👀  I’m interested in expanding my skills and knowledge of programming.
+- 📘  I'm familiar with JavaScript(React), Node.js(Express), HTML + CSS, and MongoDB(Mongoose)
 - 🌱  I’m currently learning Ruby!
 
 <!---
