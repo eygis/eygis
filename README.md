@@ -1,7 +1,7 @@
 - 👋  Hi, I’m AJ!
 - 👀  I’m interested in expanding my skills and knowledge of programming.
-- 📘  I'm familiar with JavaScript(React), Node.js(Express), HTML + CSS, and MongoDB(Mongoose)
-- 🌱  I’m currently learning Ruby / Ruby on Rails!
+- 📘  I'm familiar with JavaScript(React), Node.js(Express), Ruby on Rails, and HTML + CSS!
+- 🌱  I’m currently learning Typescript!
 
 <!---
 eygis/eygis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
